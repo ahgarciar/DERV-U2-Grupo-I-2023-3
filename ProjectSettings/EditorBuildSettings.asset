@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CambioEscenas/Inicio.unity
+    guid: 9a8bd332865b64064bd73300e49645a1
+  - enabled: 1
+    path: Assets/Scenes/CambioEscenas/P6_EnemigoAleatorio.unity
+    guid: eaee9c66c057343bab7d9e782a01e408
+  - enabled: 1
+    path: Assets/Scenes/CambioEscenas/Final.unity
+    guid: 511519f7c576c40698169c734d9d1e71
+  m_configObjects: {}
